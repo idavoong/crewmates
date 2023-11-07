@@ -33,6 +33,10 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/iEKBrTM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://github.com/idavoong/crewmates/assets/60492208/706d6b17-3fa9-461c-929a-75c1e4acab05
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with NVIDIA shadowplay and uploaded on Imgur.
 <!-- Recommended tools:
