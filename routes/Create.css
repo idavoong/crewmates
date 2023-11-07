@@ -1,0 +1,48 @@
+.form {
+  display: flex;
+  justify-content: center;
+  margin: 3rem;
+}
+
+.field {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 15px;
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;
+  background-color: #a2a1a180;
+}
+
+label {
+  margin: 1rem;
+}
+
+li {
+  list-style: none;
+}
+
+.name {
+  height: 6rem;
+}
+
+.speed {
+  height: 6rem;
+}
+
+.button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+.button:hover {
+  border-color: lightblue;
+}
